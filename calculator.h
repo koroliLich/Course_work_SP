@@ -7,6 +7,8 @@ class Calculator
         int Add (double, double);
         int Sub (double, double);
         int Mul (double, double);
+		int Square (double);
+		int Factorial (int);
 };
 
 #endif//CALCULATOR_H
